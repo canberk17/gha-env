@@ -13,7 +13,6 @@ jobs:
       MONGODB_USERNAME: canberk
       MONGODB_PASSWORD: ntB2C8n7ZrQoBFjv
       PORT: 8080
-    environment: testing
     runs-on: macos-latest
     steps:
       - name: Get Code
